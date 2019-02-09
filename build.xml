@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Hello World Ant Project" default="hello">
+    <target name="hello">
+        <echo>Hello World!</echo>
+    </target>
+     
+    <target name="myTarget">
+        <echo>My target executed</echo>
+    </target>
+</project>
